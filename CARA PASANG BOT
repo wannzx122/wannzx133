@@ -1,0 +1,35 @@
+
+
+
+NAMA SESSION : sayang.json
+
+Cara ubah Owner DI : hwkal.js
+
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭
+// CARA INSTALL BOT DI TERMUX
+
+ pkg update && pkg upgrade
+
+ pkg install nano mc libwebp imagemagick ffmpeg node.js git 
+
+ npm install -g pm2
+
+ cd /sdcard
+
+ cd /BOT-WAR
+
+ npm start
+
+                     // TINGGAL SCAN //
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭
+
+Jika Erorr cht : 085349736408
+
+
+▬▭▬▭▬▭▬▭▬▬▭▬▭
+
+// MAU NO ENC?
+
+CHAT : 085349736408
