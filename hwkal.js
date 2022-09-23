@@ -14,12 +14,12 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg'
-global.ig = 'https://www.instagram.com/raehan1986'
-global.mygc = 'wa.me/6285349736408'
+global.ig = 'https://www.instagram.com/wannzx_133'
+global.mygc = 'wa.me/6281265970249'
 global.myweb = 'https://youtube.com/channel/UCnQANmWo4iOyC6q6psb5eVg'
 global.linkgrupss = "https://chat.whatsapp.com/LMuuBpMDTkb6Zmg3KorYgQ"
-global.linkpro = 'https://www.instagram.com/raehan1986'
-global.email = 'bacotah@gmail.com'
+global.linkpro = 'https://www.instagram.com/wannzx_133'
+global.email = 'mawangulo133@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Wannzx' //ubah jadi nama mu, note tanda ' gausah di hapus!
@@ -41,7 +41,7 @@ global.mess = {
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
-    verif: 'Hai Kakak 👋 Silahkan Verifikasi Terlebih Dahulu Agar Bisa Menggunakan Bot RAEHAN1986 Mods',
+    verif: 'Hai Kakak 👋 Silahkan Verifikasi Terlebih Dahulu Agar Bisa Menggunakan Bot ࿇𝐖⃯𝐚⃕𝐧𝐧 𝐈⃬𝐭𝐬 𝐬͢𝐡𝐨᪼𝐰 𝐭𝐢⃬𝐦⃕𝐞㋰',
 }
 //=================================================//
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
