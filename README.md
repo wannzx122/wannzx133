@@ -12,11 +12,12 @@
 <div>
 </p>
 </p>
-<h4><font size="2"><a href="https://www.tiktok.com/@wannzx_133?_t=8VzfapoYCAr&_r=1"><font color="red">SUBSCRIBE</font>
+<h4><font size="2"><a href="https://www.tiktok.com/@wannzx_133?_t=8VzfapoYCAr&_r=1"><font color="red">TIK TOK</font>
 </h4>
 <h4><font size="2"><a href="https://www.instagram.com/wannzx_133"><font color="red">FOLLOW INSTAGRAM</font>
 </h4>
 <h4><font size="2"><a href="https://t.me/wannzx_133"><font color="red">TELEGRAM</font>          
+<h4><font size="2"><a href="Wa.me/6281265970249"><font color="red">WHATSAPP</font>          
 </p>
 </p>
 <a href="https://www.tiktok.com/@wannzx_133?_t=8VzfapoYCAr&_r=1" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="15" style="border:0px;height:25px;" alt="DONASI FOR ME :V"></a>
@@ -28,14 +29,18 @@
 </p>
 ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
-- 𝐌𝐲 𝐍𝐚𝐦𝐞 ࿇𝐖⃯𝐚⃕𝐧𝐧 𝐈⃬𝐭'𝐬 𝐬͢𝐡𝐨᪼𝐰 𝐭𝐢⃬𝐦⃕𝐞㋰
+
+- 𝐌𝐲 𝐍𝐚𝐦𝐞 ࿇𝐖⃯𝐚⃕𝐧𝐧 𝐈⃬𝐭'𝐬 𝐬𝐡𝐨𝐰 𝐭𝐢𝐦𝐞㋰
 </p>
 ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
+
 - 𝐇𝐞𝐥𝐥𝐨 𝐚𝐥𝐥 👋
+
 ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 -║▌║█║▌│║▌║▌█ 
+
 ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 </p>
 <br>
@@ -65,7 +70,7 @@ npm start
 ```
 ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
-> ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+
 
 # INSTALL
 * [Node.js](https://nodejs.org/en/)
